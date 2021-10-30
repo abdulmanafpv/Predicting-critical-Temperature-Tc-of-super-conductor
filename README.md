@@ -16,6 +16,7 @@ This project is divided into two part:
 
 1) Visualize the data by using Matplotlib and Seaborn.
 2) Training a Machine Learning model using Scikit-learn.
+
 •)For predicting the Critical Temperature(Tc) i used :
 1) Linear Regression.
 2) Decision Tree Regression
