@@ -28,4 +28,4 @@ This project is divided into two part:
 
 
 
-![4518857_python_icon](https://user-images.githubusercontent.com/84491967/139540069-7cd81edb-166e-474d-b14e-87c3ffbb99b7.png)
+
