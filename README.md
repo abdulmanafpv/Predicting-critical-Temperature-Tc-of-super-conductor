@@ -1,5 +1,9 @@
 
 # Predicting-critical-Temperature-Tc-of-super-conductor
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 2cf22a007aa77260ec4253578d9cc49698db300b
 
 A superconductor is a substance that conducts electricity without resistance when it becomes colder than a critical temperature. The intention of this Notebook is do an Expolatory Data Analysis on the given data and:
 
@@ -15,7 +19,12 @@ A superconductor is a substance that conducts electricity without resistance whe
 This project is divided into two part:
 
 1) Visualize the data by using Matplotlib and Seaborn.
+<<<<<<< HEAD
 2) Training a Machine Learning model using Scikit-learn.
+=======
+2) Training the data by using Scikit-learn
+
+>>>>>>> 2cf22a007aa77260ec4253578d9cc49698db300b
 •)For predicting the Critical Temperature(Tc) i used :
 1) Linear Regression.
 2) Decision Tree Regression
@@ -23,6 +32,7 @@ This project is divided into two part:
 4) Bagging Classifier
 5) Random Forest + Bagging
 
+<<<<<<< HEAD
 
 
 
@@ -33,3 +43,12 @@ This project is divided into two part:
 
 
 
+=======
+# Technologies Used
+![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
+
+
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
+>>>>>>> 2cf22a007aa77260ec4253578d9cc49698db300b
