@@ -19,6 +19,7 @@ This project is divided into two part:
 2) Training a Machine Learning model using Scikit-learn.
 
 2) Training the data by using Scikit-learn
+
 •)For predicting the Critical Temperature(Tc) i used :
 1) Linear Regression.
 2) Decision Tree Regression
