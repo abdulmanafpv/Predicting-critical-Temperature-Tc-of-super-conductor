@@ -27,6 +27,16 @@ This project is divided into two part:
 4) Bagging Regression
 5) Random Forest + Bagging
 
+# Tools Used
+
+1) Python
+2) Pandas
+3) Scikit-learn
+4) Matplotlib
+5) Numpy
+6) Seaborn
+7) Jupyter Notebook
+
 # Result
 
 From these models  Random Forest Regression model gives highest score when compared to other models (0.92)
