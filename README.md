@@ -1,6 +1,7 @@
 
 # Predicting-critical-Temperature-Tc-of-super-conductor
 
+## About
 A superconductor is a substance that conducts electricity without resistance when it becomes colder than a critical temperature. The intention of this Notebook is do an Expolatory Data Analysis on the given data and:
 
 1)Find the factors the affects Tc.
@@ -9,6 +10,8 @@ A superconductor is a substance that conducts electricity without resistance whe
 
 3)Develope and compare Various models for predicting Tc.
 
+## Objective
+Creat a good model for Predicting Critical Temperature(Tc) of Superconductor
 
 ## Technical Aspect
 
